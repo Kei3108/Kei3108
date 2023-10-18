@@ -5,11 +5,9 @@
 
 - 🔭 I’m currently working on [Starwars](https://github.com/4GeeksAcademy/Kei3108-StarwarsBlog)
 
-- 🌱 I’m currently learning **Programming**
+- 🌱 I’m currently learning **Python**
 
-- 👯 I’m looking to collaborate on [Mov+](https://github.com/4GeeksAcademy/grupo2-proyecto-final)
-
-- 🤝 I’m looking for help with [ContactList](https://github.com/4GeeksAcademy/Kei3108_ContactList)
+- 👯 New Project [Mov+](https://github.com/4GeeksAcademy/grupo2-proyecto-final)
 
 - 💬 Ask me about **HTML, CSS, React and API**
 
